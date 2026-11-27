@@ -20,7 +20,7 @@ Proyecto PAE. Mesa de pruebas con un **cardán de tres ejes** (guiñada, alabeo 
 | [`imagenes/estado_del_arte/`](imagenes/estado_del_arte) | Gráfica de fuentes por categoría. |
 | [`datos/`](datos) | Tablas de resultados en CSV (masas, inercias, FEM de aros, ejes, rodamientos, par gravitacional). |
 | [`analisis/`](analisis) | Scripts en Python que calculan los resultados y generan las figuras. |
-| [`cad/`](cad) | Modelo CAD del autor en STL (ensamble de la mesa) y lista de planos pendientes. |
+| [`cad/`](cad) | Modelo CAD del autor (Shapr3D) en STEP editable y en STL, con la lista de piezas y de planos pendientes. |
 | [`fuentes/`](fuentes) | Video original de la estructura y transcripción de la descripción técnica del autor. |
 
 ## Especificaciones principales
@@ -74,8 +74,8 @@ Las hipótesis están al inicio de `calculos_mecanicos.py`. Al cambiarlas por va
 
 ## Pendiente
 
-- [x] Modelo CAD en STL (ver `cad/README.md`).
-- [ ] Archivo CAD nativo o STEP y planos en PDF.
+- [x] Modelo CAD en STEP y STL (ver `cad/README.md`).
+- [ ] Planos en PDF (vista general con cotas y despiece).
 - [ ] Fotografía del producto terminado (después de pintar y montar).
 - [ ] Ensayos de fricción en los ejes y validación de masas con báscula.
 
