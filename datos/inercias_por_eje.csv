@@ -1,0 +1,11 @@
+eje,componente,inercia_kg_m2
+Cabeceo (Y),Aro interior,0.2876
+Cabeceo (Y),Guía vertical,0.0500
+Alabeo (X),Aro exterior,0.4970
+Alabeo (X),Aro interior,0.5753
+Alabeo (X),Guía vertical,0.0500
+Alabeo (X),Ejes,0.1848
+Guiñada (Z),Semicírculo U,0.4854
+Guiñada (Z),Aro exterior,0.9941
+Guiñada (Z),Aro interior,0.2876
+Guiñada (Z),Ejes,0.6027

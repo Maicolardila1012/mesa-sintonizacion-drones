@@ -1,0 +1,8 @@
+componente,longitud_m,masa_kg
+"Semicírculo en U (Ø1,50 m)",2.356,1.73
+"Aro exterior (Ø1,20 m)",3.770,2.76
+"Aro interior (Ø1,00 m)",3.142,2.30
+"Eje vertical de la U (7/8"")",0.180,0.55
+"Brazos laterales 7/8"" (2 × 15 cm)",0.300,0.91
+Muñones del aro interior (2 × 10 cm),0.200,0.61
+Guía vertical + soporte (valor asumido),0.500,0.60
