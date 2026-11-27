@@ -46,7 +46,7 @@ La mesa admite cualquier dron que quepa dentro del aro interior de Ø 1,00 m. Su
 
 *Figura 2. Dimensiones principales: (a) vista frontal de la U y el aro exterior; (b) vista lateral del aro interior y la guía.*
 
-El autor modeló el ensamble completo en CAD, con rodamientos, chumaceras y un dron F450 de referencia (Figura 6). Los archivos STL están en [`cad/`](../cad).
+El autor modeló el ensamble completo en CAD, con rodamientos, chumaceras y un dron F450 de referencia (Figura 6). El modelo, hecho en Shapr3D, está en [`cad/`](../cad) en formato STEP (editable) y STL.
 
 ![Figura 6](../imagenes/resultados/fig06_modelo_cad.png)
 
@@ -232,4 +232,4 @@ Los materiales comprados costaron unos 637 000 COP (precios de noviembre de 2026
 | Tornillería | — | — | 20 000 |
 | **Total** | | | **637 000** |
 
-Pendiente: archivo CAD nativo o STEP, planos en PDF y foto del producto terminado.
+Pendiente: planos en PDF y foto del producto terminado.
